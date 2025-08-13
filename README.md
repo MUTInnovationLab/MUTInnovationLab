@@ -5,7 +5,7 @@
 
 > *"Empowering the future by innovating today."*
 
-![Innovation Banner](https://via.placeholder.com/1200x300/0f2027/ffffff?text=MUT+Innovation+Lab+-+AI+%7C+AR+%7C+4IR+%7C+Innovation)
+
 
 ---
 
